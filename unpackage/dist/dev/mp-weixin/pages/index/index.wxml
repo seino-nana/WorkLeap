@@ -1,0 +1,1 @@
+<view class="chat"><view class="">123</view></view><view class="input-box"><view style="flex:1;margin-right:10rpx"><u--textarea wx:if="{{b}}" u-i="6d81293e-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></u--textarea></view><view><button iconColor="#ffffff" color="#7197b1" size="normal" text="发送"></button></view></view>

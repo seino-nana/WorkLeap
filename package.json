@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+	  "@dcloudio/uni-app": "^2.0.2-3080720230703001",
+	  "@dcloudio/uni-ui": "^1.4.28",
+    "uview-plus": "^3.1.38"
+  }
+}
